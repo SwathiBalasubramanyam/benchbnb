@@ -1,0 +1,24 @@
+{
+  "name": "benchbnb",
+  "version": "1.0.0",
+  "description": "Bench rating app!",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwathiBalasubramanyam/authenticate-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwathiBalasubramanyam/authenticate-me/issues"
+  },
+  "homepage": "https://github.com/SwathiBalasubramanyam/authenticate-me#readme",
+  "engines": {"node": "16.x"}
+}
